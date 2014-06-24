@@ -1,0 +1,14 @@
+C:\Users\Rang\Desktop\csharp\csharp\bin\Debug\InkCanvasEditingModes.exe
+C:\Users\Rang\Desktop\csharp\csharp\bin\Debug\InkCanvasEditingModes.pdb
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\inkcanvaseditingmodes.csprojResolveAssemblyReference.cache
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\SampleWindow.g.cs
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\App.g.cs
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\InkCanvasEditingModes_MarkupCompile.cache
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\InkCanvasEditingModes_MarkupCompile.lref
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\SampleWindow.baml
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\InkCanvasEditingModes.g.resources
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\InkCanvasEditingModes.Properties.Resources.resources
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\inkcanvaseditingmodes.csproj.GenerateResource.Cache
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\InkCanvasEditingModes.exe
+C:\Users\Rang\Desktop\csharp\csharp\obj\Debug\InkCanvasEditingModes.pdb
